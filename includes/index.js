@@ -246,7 +246,7 @@
     // ==============================================
     // 4. EXAMPLE INTERACTIONS
     // ==============================================
-    // Simple interactive examples users can customize
+    // Simple interactive examples users can customise
     //
     // These demonstrate common UI patterns:
     // - Smooth scrolling
