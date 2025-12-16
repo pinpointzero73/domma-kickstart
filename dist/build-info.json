@@ -1,0 +1,31 @@
+{
+  "version": "0.8.0b",
+  "built": "16/12/2025 16:27",
+  "commit": "a362c96",
+  "bundles": {
+    "full": {
+      "size": 291,
+      "sizeFormatted": "291KB"
+    },
+    "minimal": {
+      "size": 154,
+      "sizeFormatted": "154KB"
+    },
+    "essentials": {
+      "size": 243,
+      "sizeFormatted": "243KB"
+    },
+    "data-focused": {
+      "size": 184,
+      "sizeFormatted": "184KB"
+    },
+    "no-ui": {
+      "size": 40,
+      "sizeFormatted": "40KB"
+    },
+    "tools": {
+      "size": 165,
+      "sizeFormatted": "165KB"
+    }
+  }
+}
