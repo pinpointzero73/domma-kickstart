@@ -51,14 +51,14 @@
         },
         items: [
             {text: 'Home', url: '/kickstart/', active: true},
-            {text: 'Documentation', url: 'http://domma.dcbw-it.co.uk/showcase/index.html'},
-            {text: 'Examples', url: 'http://domma.dcbw-it.co.uk/examples/index.html'},
+            {text: 'Documentation', url: 'https://domma.dcbw-it.co.uk/showcase/index.html'},
+            {text: 'Examples', url: 'https://domma.dcbw-it.co.uk/examples/index.html'},
             {
                 text: 'More',
                 items: [  // Dropdown example
                     {text: 'GitHub', url: 'https://github.com/'},
                     {text: 'NPM', url: 'https://npmjs.com/'},
-                    {text: 'Download', url: 'http://domma.dcbw-it.co.uk/showcase/download/index.html'}
+                    {text: 'Download', url: 'https://domma.dcbw-it.co.uk/showcase/download/index.html'}
                 ]
             }
         ],
